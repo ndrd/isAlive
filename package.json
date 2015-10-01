@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Real time locator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "author": "Jonathan Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndrd/lokator/issues"
+  },
+  "homepage": "https://github.com/ndrd/lokator#readme"
+}
+
